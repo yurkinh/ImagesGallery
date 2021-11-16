@@ -1,2 +1,2 @@
 # ImagesGallery
-Gallery image with caching using Glidex and Nuke
+Image gallery with caching using Glidex and Nuke
